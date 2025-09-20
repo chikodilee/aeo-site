@@ -72,17 +72,17 @@ Built with modern, reliable technologies:
 ## 🚀 Quick Start
 
 ### 🌐 **Try the Live Demo**
-Visit our [**Landing Page**](INSERT-LANDING-PAGE-LINK) to learn more and see Optim👀 in action!
+Visit our [**Website**](https://optimeyes-site.netlify.app/) to learn more and see Optim👀 in action!
 
 ## 📚 Documentation
-📖 **[Complete Setup Guide](INSERT-DOCUMENTATION-LINK)**: Step-by-step instructions for getting started. </br>
-🎯 **[AEO Best Practices](INSERT-BEST-PRACTICES-LINK)**: Learn the fundamentals of Answer Engine Optimization.
+📖 **[Complete Setup Guide](https://optimeyes-site.netlify.app/documentation.html#quick-start)**: Step-by-step instructions for getting started. </br>
+🎯 **[AEO Best Practices](https://optimeyes-site.netlify.app/documentation.html#best-practices)**: Learn the fundamentals of Answer Engine Optimization.
 
 ## 📞 Support & Contact
 
 - 📧 **Email**: coming soon
 - 🐛 **Issues**: [GitHub Issues](https://github.com/your-username/aeo-site/issues)
-- 📚 **Docs**: [Documentation Portal](INSERT-DOCUMENTATION-LINK-HERE)
+- 📚 **Docs**: [Documentation Portal](https://optimeyes-site.netlify.app/documentation.html)
 
 ---
 
@@ -90,7 +90,7 @@ Visit our [**Landing Page**](INSERT-LANDING-PAGE-LINK) to learn more and see Opt
 
 ### 🌟👀 **Ready to Get Discovered?**
 
-**[Start Your Free Analysis →](INSERT-APP-LINK)**
+**[Start Your Free Analysis →](https://optimeyes-site.netlify.app/)**
 
 *Built with ❤️ for the future of search 🔍*
 
